@@ -5,6 +5,6 @@ Aplikasi Jadwal Sholat ini membantu pengguna untuk:
 ✅ Tampilan sederhana dan mudah digunakan.
 ✅ Terdapat fitur Pengumuman
 ✅ Menggunakan Sqlite
-✅ dibuat 24.01.53.7009
+✅ dibuat oleh 24.01.53.7009
 
 Dikembangkan dengan Android Studio menggunakan bahasa pemrograman Java.
